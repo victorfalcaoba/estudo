@@ -11,3 +11,4 @@ git status => **mostra o status da branch**
 git branch *a branch q vc quer mudar* => **muda a branch**  
 git merge *nome da branch* => **da merge na branch atual com a selecionada**  
 git push -u origin *nome da branch* => **manda a branch para o repositorio remoto**  
+git pull => **baixa as alteracoes do remoto para o local**  
